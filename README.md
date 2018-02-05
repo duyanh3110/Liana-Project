@@ -39,6 +39,6 @@ You can see my live-demo at: http://www.students.oamk.fi/~t6ngdu00/Liana%20Assig
 
 # Author
 
-Nguyen Duy Anh
-    - [Github](https://github.com/duyanh3110)
-    - Contact me: duyanh19962012@gmail.com
+**Duy Anh Nguyen** 
+- [Github](https://github.com/duyanh3110)
+- Contact me: duyanh19962012@gmail.com
