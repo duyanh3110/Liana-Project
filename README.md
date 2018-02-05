@@ -6,7 +6,7 @@ You can see my live-demo at: http://www.students.oamk.fi/~t6ngdu00/Liana%20Assig
 # Framework used
 
 - [Boostrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
-- jQuery 3.3.1
+- [jQuery 3.3.1](http://api.jquery.com/)
 
 # Features
 - Loading Page
@@ -36,3 +36,6 @@ You can see my live-demo at: http://www.students.oamk.fi/~t6ngdu00/Liana%20Assig
 5. Thank you notification
     - jQuery
     - Using delay(), fadeIn() & fadeOut() Method to set a animation and delay.
+
+# Author
+Nguyen Duy Anh
