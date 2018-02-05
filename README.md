@@ -1,7 +1,7 @@
 # Liana-Project
 
 This is an assigment of Liana Tachnologies. I need to build an HTML page from psd file.
-You can see my live-demo at [here] (http://www.students.oamk.fi/~t6ngdu00/Liana%20Assignment/)
+You can see my live-demo at [here](http://www.students.oamk.fi/~t6ngdu00/Liana%20Assignment/)
 
 # Framework used
 
